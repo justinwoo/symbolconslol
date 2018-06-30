@@ -1,0 +1,11 @@
+{
+  "name": "symbolconslol",
+  "set": "300618",
+  "source": "https://github.com/justinwoo/spacchetti.git",
+  "depends": [
+    "console",
+    "effect",
+    "prelude",
+    "record-format"
+  ]
+}
