@@ -1,7 +1,7 @@
 {
   "name": "symbolconslol",
-  "set": "300618",
-  "source": "https://github.com/justinwoo/spacchetti.git",
+  "set": "psc-0.13.0-20190626",
+  "source": "https://github.com/purescript/package-sets.git",
   "depends": [
     "console",
     "effect",
